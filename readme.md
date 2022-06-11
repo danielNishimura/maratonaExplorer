@@ -1,4 +1,4 @@
-<img src="card.svg" <a href="https://maratona-explorer-ticket.rocketseat.com.br/ticket/danielNishimura/share"></a>>
+<a href="https://maratona-explorer-ticket.rocketseat.com.br/ticket/danielNishimura/share"><img src="card.svg"></a>
 
 
 
