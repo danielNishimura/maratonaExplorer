@@ -1,4 +1,4 @@
-<img src="./card.svg>
+<img src="card.svg">
 
 
 # HTML
