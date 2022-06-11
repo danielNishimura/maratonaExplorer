@@ -1,4 +1,4 @@
-<img src:"https://maratona-explorer-ticket.rocketseat.com.br/ticket/danielNishimura/share"/>
+<img src="https://maratona-explorer-ticket.rocketseat.com.br/ticket/danielNishimura/share"/>
 
 # HTML
 - HyperText Markup Language
